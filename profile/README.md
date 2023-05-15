@@ -1,5 +1,32 @@
-Welcome to the future...
+> Outsiders: The Militia of Light ©2023 ALL RIGHTS RESERVED
+
+Table of Contents
 ==========================
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
+
+
+
 
 <!--
 
