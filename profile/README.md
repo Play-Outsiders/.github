@@ -26,8 +26,15 @@ Table of Contents
 
 Contributors
 --------------------------
+* John Doe
+* Jane Doe
+* Jacob Doe
+* Jessica Doe
 
 
+### Legal Notice
+
+> *for any questions or support,contact us [here!](mailto:quinn@playoutsiders.com)*
 
 <!--
 
