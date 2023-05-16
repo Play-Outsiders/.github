@@ -34,7 +34,7 @@ Contributors
 
 ### Legal Notice
 
-> *for any questions or support,contact us [here!](mailto:quinn@playoutsiders.com)*
+> *for any questions/support feel free to contact us [here](mailto:quinn@playoutsiders.com)*
 
 <!--
 
