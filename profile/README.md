@@ -32,6 +32,9 @@ Contributors
 * Jessica Doe
 
 
+
+> **Warning**
+> 
 ### Legal Notice
 
 > *for any questions/support feel free to contact us [here](mailto:quinn@playoutsiders.com)*
