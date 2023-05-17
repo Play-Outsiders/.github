@@ -7,7 +7,8 @@ Table of Contents
 * iOS mobile app (details about iOS app)
 * Unreal Engine 5 (details about game environment)
 * 3rd person shooter (details about gameplay mechanics)
-* 
+* Built with a focus on seamless player experience
+* Extremely fast time to load into game from home screen
 *
 *
 *
