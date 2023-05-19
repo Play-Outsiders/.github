@@ -17,8 +17,8 @@ Table of Contents
 
 Contributors
 --------------------------
-* John Doe
-* Jane Doe
+* [Quinn 'The Wizard'](https://github.com/zkWizard)
+* [Justin Stephens](https://github.com/JTStephens18)
 * Jacob Doe
 * Jessica Doe
 
