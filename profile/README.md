@@ -1,4 +1,4 @@
-> © 2023 - Outsiders: The Militia of Light - All Rights Reserved.
+> © 2023 - Outsiders: The Militia of Light ™️ - All Rights Reserved.
 
 Table of Contents
 ==========================
